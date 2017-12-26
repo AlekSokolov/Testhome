@@ -1,1 +1,2 @@
 Test step 1
+Test step 2. Invite in collaboration a new users and change in document
